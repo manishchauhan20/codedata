@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    /* font: gray; */
+}
+p{
+  color: rgb(129, 129, 129);
+}
+aside{
+    font-size: .900rem;
+    color: black;
+}
